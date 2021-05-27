@@ -1,4 +1,4 @@
-.. title:: Nutanix<Topic> Bootcamp
+.. title:: Nutanix <Topic> Bootcamp
 
 .. toctree::
    :maxdepth: 2
