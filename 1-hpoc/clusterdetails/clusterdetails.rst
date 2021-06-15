@@ -100,7 +100,7 @@ Netzwerk
 Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
 
 .. list-table::
-   :widths: 33 33
+   :widths: 33 33 33
    :header-rows: 1
 
    * -
