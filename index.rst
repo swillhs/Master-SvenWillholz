@@ -6,7 +6,6 @@
    :hidden:
 
    1-hpoc/ansprechpartner/ansprechpartner
-   1-hpoc/clusteraccess/clusteraccess
    1-hpoc/clusterdetails/clusterdetails
 
 .. toctree::
