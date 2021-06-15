@@ -1,4 +1,4 @@
-.. title:: Nutanix <Topic> Bootcamp
+.. title:: Nutanix ITSG Privat Cloud Bootcamp
 
 .. toctree::
    :maxdepth: 2
@@ -57,13 +57,13 @@
   :hidden:
 
   what_is_calm/what_is_calm
-  calm_enable/calm_enable
-  calm_projects/calm_projects
-  calm_linux/calm_linux
-  calm_win/calm_win
-  calm_day2/calm_day2
-  calm_marketplace/calm_marketplace
-  calm_escript/calm_escript
+  calm/calm_enable/calm_enable
+  calm/calm_projects/calm_projects
+  calm/calm_linux/calm_linux
+  calm/calm_win/calm_win
+  calm/calm_day2/calm_day2
+  calm/calm_marketplace/calm_marketplace
+  calm/calm_escript/calm_escript
 
 .. toctree::
   :maxdepth: 2
@@ -85,7 +85,7 @@
 .. _getting_started:
 
 ----------------------------------------------
-Herzlich willkommen auf dem Fujitsu/Nutanix NUIX-Analytics Hosted PoC
+Herzlich willkommen auf dem Nutanix ITSG Privat Cloud PoC
 ----------------------------------------------
 
 .. figure:: images/logos.png
