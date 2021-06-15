@@ -51,11 +51,11 @@ Infrastruktur IPs
   * - **Cluster virtual IP**
     - 172.21.124.200
   * - **iSCSI Data Services IP**
-    - 172.21.124.201
+    - 172.21.124.199
   * - **Prism Central**
     - 172.21.124.71
   * - **Active Directory**
-    -
+    - 172.21.124.80
 
 
 Zugangsdaten
@@ -85,9 +85,9 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
   * - **Prism Central SSH**
     - nutanix
     - nutanix/4u
-  * - **NTNXLAB Domain**
-    - NTNXLAB\\Administrator
-    - ItsgGsti2021!
+  * - **NTNXLAB.local Domain**
+    - NTNXLAB.local\\Administrator
+    - nutanix/4u
   * - **CentOS VM Image**
     - root
     - nutanix/4u

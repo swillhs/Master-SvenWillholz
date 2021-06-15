@@ -87,7 +87,7 @@
 Herzlich willkommen auf dem Nutanix ITSG Privat Cloud PoC
 ----------------------------------------------
 
-.. figure:: images/logos.png
+.. figure:: images/logos1.png
 
 Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs, sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
