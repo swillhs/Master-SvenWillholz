@@ -13,16 +13,16 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
 
 
 +----------------------------------+-----------------------------------+-----------------------------------+
-| Sven Willholz                    | Wolfgang Huse                     | Rene Gilling                      |
+| Stephan Mullins                  | Wolfgang Huse                     | Rene Gilling                      |
 +==================================+===================================+===================================+
-| .. figure:: images/swillh.png    | .. figure:: images/whuse.png      |.. figure:: images/rgilling.png    |
+| .. figure:: images/smullins.png  | .. figure:: images/whuse.png      |.. figure:: images/rgilling.png    |
 |    :width: 200px                 |    :width: 200px                  |   :width: 200px                   |
 |    :align: left                  |    :align: left                   |   :align: left                    |
 +----------------------------------+-----------------------------------+-----------------------------------+
-| Sr. Systems Engineer             | Solutions Architect               | Sr. Systems Enginer               |
+|     Systems Engineer             | Solutions Architect               | Sr. Systems Enginer               |
 |                                  |                                   |                                   |
-| +49 1522 9209639                 | +49 173 4524010                   | +49 170 7744772                   |
+| +49 176 32998649                 | +49 173 4524010                   | +49 170 7744772                   |
 |                                  |                                   |                                   |
-| sven.willholz@nutanix.com        | wolfgang.huse@nutanix.com         | rene.gilling@nutanix.com          |
+| stephan.mullins@nutanix.com      | wolfgang.huse@nutanix.com         | rene.gilling@nutanix.com          |
 |                                  |                                   |                                   |
 +----------------------------------+-----------------------------------+-----------------------------------+
